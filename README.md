@@ -3,3 +3,5 @@
 In this tutorial, we will create a vanilla JavaScript application using that fetches random facts on any number entered. We will use both XHR and the Fetch API to make requests to http://numbersapi.com
 
 [View demo site here.](https://webdevtuts.github.io/number_facts_app/)
+
+![Preview](screenshot.png)
